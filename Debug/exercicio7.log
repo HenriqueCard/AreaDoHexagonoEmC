@@ -1,0 +1,3 @@
+﻿  Origem.cpp
+C:\Users\Evanilda\source\repos\exercicio7\exercicio7\Origem.cpp(37,37): warning C4244: '=': conversão de 'double' para 'float', possível perda de dados
+  exercicio7.vcxproj -> C:\Users\Evanilda\source\repos\exercicio7\Debug\exercicio7.exe
